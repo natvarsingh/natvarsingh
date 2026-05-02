@@ -3,7 +3,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natvarsingh&theme=radical)
 ## 🚀 About Me
-- 🌍 Based in Jaipur, India
+- 🌍 Based in Jodhpur, India
 - ⚖️ System Assistant at Rajasthan High Court
 - 💻 Interested in Ethical Hacking & Cybersecurity
 - 📚 Exploring automation, data management, and judicial processes
@@ -20,6 +20,13 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
 
+## 🏆 Achievements
+- 🎖️ Completed **eJPT Certification** (2024)
+- 🐞 Reported critical XSS vulnerability acknowledged by **HackerOne**
+- 📂 Built **Alumni Directory Automation Tool** (Excel + HTML + JS)
+- ⚖️ Contributed to **Rajasthan High Court System Automation**
+- 🌐 Active **Cyber Crime Volunteer** strengthening digital security awareness
+- 🛡️ Ranked Top 1% on **TryHackMe** global leaderboard
 
 
 ## 🎯 Goals
@@ -37,4 +44,4 @@
 - [Email](mailto:natvar.singh92@gmail.com)
 - [GitHub](https://github.com/natvarsingh)
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=natvarsingh&show_icons=true&theme=radical)
+
