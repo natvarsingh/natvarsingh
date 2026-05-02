@@ -26,4 +26,5 @@
 - [LinkedIn](https://www.linkedin.com/in/redkingkarola)
 - [Email](mailto:natvar.singh92@gmail.com)
 - [GitHub](https://github.com/natvarsingh)
-
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=natvarsingh&show_icons=true&theme=radical)
