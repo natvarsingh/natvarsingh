@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Natvar
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Ethical+Hacker+in+Progress;Cyber+Crime+Volunteer;System+Assistant+at+Rajasthan+High+Court)](https://git.io/typing-svg)
 ## 🚀 About Me
 - 🌍 Based in Jaipur, India
 - ⚖️ System Assistant at Rajasthan High Court
