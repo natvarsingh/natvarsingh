@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Natvar
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Ethical+Hacker+in+Progress;Cyber+Crime+Volunteer;System+Assistant+at+Rajasthan+High+Court)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FF5733&lines=Ethical+Hacker+in+Progress;Cyber+Crime+Volunteer;System+Assistant+at+High+Court)](https://git.io/typing-svg)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natvarsingh&theme=radical)
 ## 🚀 About Me
 - 🌍 Based in Jaipur, India
 - ⚖️ System Assistant at Rajasthan High Court
@@ -11,6 +13,14 @@
 - Research & analysis
 - Communication & problem-solving
 - IT troubleshooting (Windows, networking, automation)
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
+
+
 
 ## 🎯 Goals
 - Become an expert ethical hacker
